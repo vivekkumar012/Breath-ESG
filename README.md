@@ -158,21 +158,6 @@ npm run dev
 
 ---
 
-# Sample Data
-
-Located inside:
-
-```txt
-sample-data/
-```
-
-Includes:
-
-* sample_sap.csv
-* sample_utility.csv
-* sample_travel.json
-
----
 
 # Review Workflow
 
@@ -229,14 +214,6 @@ Neon PostgreSQL
 
 ---
 
-# Demo Credentials
-
-```txt
-email: analyst@breathe.com
-password: password123
-```
-
----
 
 # Key Architectural Decisions
 
